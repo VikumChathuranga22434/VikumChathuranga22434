@@ -85,27 +85,6 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=VikumChathuranga22434&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikumChathuranga22434&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="VikumChathuranga22434" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikumChathuranga22434&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VikumChathuranga22434" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[VikumChathuranga22434](https://github.com/VikumChathuranga22434)
-
----
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -115,7 +94,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VikumChathuranga22434&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VikumChathuranga22434&theme=dark&hide_border=false" /> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikumChathuranga22434&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VikumChathuranga22434" /></p>
+
+[VikumChathuranga22434](https://github.com/VikumChathuranga22434)
 </td>
 <td width="50%" align="center">
 
