@@ -26,8 +26,8 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
-<h3 align="center">My Statistics:</h3>
 <p align="center">
+<h3 align="center">My Statistics:</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
