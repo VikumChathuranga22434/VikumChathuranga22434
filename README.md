@@ -3,13 +3,13 @@
 
 <br>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="VikumChathuranga22434" /></p>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=VikumChathuranga22434&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="VikumChathuranga22434" /></p>
 
 
 - 🌱 I’m currently learning Full stack Development using MERN and other programming languages
@@ -18,17 +18,18 @@
 
 - ⚡ Fun fact :- Call me As Vikka
 
-<br>
-
-
 
 <br>
-<br><br><br><br><br><br><br><br><br><br>
+
+
+
+<br>
+<br><br><br><br><br><br>
 
 
 <p align="center">
-<h3 align="center">My Statistics:</h3>
 <table align="center">
+<h3 align="center">My Statistics:</h3>
 <tr border="none">
 <td width="50%" align="center">
   
@@ -36,7 +37,6 @@
   <br></br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikumChathuranga22434&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VikumChathuranga22434" /></p>
 
-[VikumChathuranga22434](https://github.com/VikumChathuranga22434)
 </td>
 <td width="50%" align="center">
 
