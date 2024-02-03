@@ -52,6 +52,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/vikum-chathuranga-basnayaka" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="VikumChathuranga22434" height="50" width="50" /></a>
 <a href="https://www.instagram.com/___chathx.vik____/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://x.com/VikumChathx__/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 ---
